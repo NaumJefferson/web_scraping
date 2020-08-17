@@ -1,0 +1,14 @@
+{
+  "name": "web_scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:NaumJefferson/web_scraping.git",
+  "author": "Naum Jefferson <na1.jefferson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crawler": "^1.2.2",
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.2.1",
+    "readline-sync": "^1.4.10"
+  }
+}
